@@ -1,6 +1,3 @@
-* TOC
-{:toc}
-
 ## Professional Self-Assessment
 TO-DO
 
@@ -30,6 +27,6 @@ With the enhancements listed above, the objectives planned in the beginning of t
 - **Database:** I created a database for the dataset containing the information of bids used in the original project. However, instead of focusing on storing the time elapsed for the data structure algorithms, as I originally proposed in the beginning of this course, I decided to focus on performing CRUD operations on the database. I made this change because it ensured that the most common operations used in REST APIs were implemented.
 
 ### Reflection
-- **Software Design and Engineering:** 
-- **Algorithm and Data Structures:** 
+- **Software Design and Engineering:** The first challenge I faced when working on this project was defining the design and structure of the application. I already had experience in using HTML, CSS, JavaScript, and React.js in previous projects. However, working on this capstone helped me practice and improve my skills in these languages. For instance, it required me to learn new concepts regarding CSS transitions, JavaScript asynchronous functions, and React.js Hooks.
+- **Algorithm and Data Structures:** This project also helped me differentiate the strategies used in the implementation of algorithms according to the language being used. For instance, unliked C++, JavaScript does not have pointers. Therefore, some changes might have to be made to the logic of algorithms due to the difference between pass-by-value and pass-by-reference operations.
 - **Database:** There were multiple obstacles I faced when implementing the backend of this application and its communication with the frontend. These challenges include handling asynchronous function calls and catching API errors. I also had to relearn how to resolve CORS (Cross-Origin Resource Sharing) errors when fetching data from the backend. These challenges were valuable to my future career as a software developer, as they strengthen my problem-solving skills and are examples of situations that can occur in real scenarios.
