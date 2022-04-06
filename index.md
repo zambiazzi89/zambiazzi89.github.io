@@ -1,13 +1,3 @@
-## Table of Contents
-1. [Professional Self-Assessment](https://github.com/zambiazzi89/zambiazzi89.github.io/blob/main/index.md#professional-self-assessment)
-2. [Artifact](https://github.com/zambiazzi89/zambiazzi89.github.io/blob/main/index.md#artifact)
-    * [Description](https://github.com/zambiazzi89/zambiazzi89.github.io/blob/main/index.md#description)
-3. [Code Review](https://github.com/zambiazzi89/zambiazzi89.github.io/blob/main/index.md#code-review)
-4. [Enhancements](https://github.com/zambiazzi89/zambiazzi89.github.io/blob/main/index.md#enhancements)
-    * [Justification](https://github.com/zambiazzi89/zambiazzi89.github.io/blob/main/index.md#justification)
-    * [Objectives Met](https://github.com/zambiazzi89/zambiazzi89.github.io/blob/main/index.md#objectives-met)
-    * [Reflection](https://github.com/zambiazzi89/zambiazzi89.github.io/blob/main/index.md#reflection)
-
 ## Professional Self-Assessment
 TO-DO
 
@@ -26,16 +16,17 @@ The enhanced full-stack application can be found [here](https://github.com/zambi
 
 ### Justification
 I chose this artifact for the three categories below because it permitted multiple types of enhancements to showcase different skills relevant to each category. My plan to enhance ths artifact consisted of translating it from C++ to JavaScript, implementing additional algorithms, and creating a server and database to store the dataset and allow for persistent changes.
-- Software Design and Engineering: To translate my project from C++ to JavaScript, I created a web application using HTML, CSS, JavaScript, and React.js. The application implements all the data structures and algorithms from my initial project, the only difference being the use of arrays instead of vectors, since, unlike C++, JavaScript does not have built-in vectors. This enhancement showcases my skills and abilities to translate, design and engineer a front-end application using different languages and frameworks.
-- Algorithm and Data Structures: I expanded the algorithms in the original application by implementing a merge sort functionality for the array, a reverse list functionality for the linked list, a button to change the hash salt used in the hash table, and the pre-, in-, and post-order traversals for the binary search tree. This enhancement showcases my knowledge of data structures and algorithms and my skills and abilities to expand their complexities.
-- Database: Since the original artifact did not contain a database, it would allow me to implement a full-stack application from scratch. The artifact was improved by making it possible for users to access the dataset and make persistent changes to it. This enhancement showcases my skills and abilities to create a full-stack application using a MERN (MongoDB, Express, React.js, Node.js) stack.
+- **Software Design and Engineering:** To translate my project from C++ to JavaScript, I created a web application using HTML, CSS, JavaScript, and React.js. The application implements all the data structures and algorithms from my initial project, the only difference being the use of arrays instead of vectors, since, unlike C++, JavaScript does not have built-in vectors. This enhancement showcases my skills and abilities to translate, design and engineer a front-end application using different languages and frameworks.
+- **Algorithm and Data Structures:** I expanded the algorithms in the original application by implementing a merge sort functionality for the array, a reverse list functionality for the linked list, a button to change the hash salt used in the hash table, and the pre-, in-, and post-order traversals for the binary search tree. This enhancement showcases my knowledge of data structures and algorithms and my skills and abilities to expand their complexities.
+- **Database:** Since the original artifact did not contain a database, it would allow me to implement a full-stack application from scratch. The artifact was improved by making it possible for users to access the dataset and make persistent changes to it. This enhancement showcases my skills and abilities to create a full-stack application using a MERN (MongoDB, Express, React.js, Node.js) stack.
 
 ### Objectives Met
-- Software Design and Engineering:
-- Algorithm and Data Structures:
-- Database: With these enhancements, I met most of the course objectives I planned in Module One. As planned, I created a database for the dataset containing the information of bids used in the original project. However, instead of focusing on storing the time elapsed for the data structure algorithms, as I originally proposed in Milestone One, I decided to focus on performing CRUD operations on the database. I made this change because it ensured that the most common operations used in REST APIs were implemented.
+With the enhancements listed above, the objectives planned in the beginning of this course were met.
+- **Software Design and Engineering:** As planned, the application was successfully translated from C++ to JavaScript. Additionally, I used other languages and frameworks to build a complete user interface to improve user experience.
+- **Algorithm and Data Structures:** I expanded each of the data structures' functionalities by implementing at least one additional algorithm. The only difference from my initial plan was to implement a functionality to modify the hash salt used in the hash table. I opted for this functionality because it shows the importance of choosing efficient hash salt values when implementing the hash algorithm to calculate the keys of the elements in the hash table.
+- **Database:** I created a database for the dataset containing the information of bids used in the original project. However, instead of focusing on storing the time elapsed for the data structure algorithms, as I originally proposed in the beginning of this course, I decided to focus on performing CRUD operations on the database. I made this change because it ensured that the most common operations used in REST APIs were implemented.
 
 ### Reflection
-- Software Design and Engineering:
-- Algorithm and Data Structures:
-- Database: There were multiple obstacles I faced when implementing the backend of this application and its communication with the frontend. These challenges include handling asynchronous function calls and catching API errors. I also had to relearn how to resolve CORS (Cross-Origin Resource Sharing) errors when fetching data from the backend. These challenges were valuable to my future career as a software developer, as they strengthen my problem-solving skills and are examples of situations that can occur in real scenarios.
+- **Software Design and Engineering:** 
+- **Algorithm and Data Structures:** 
+- **Database:** There were multiple obstacles I faced when implementing the backend of this application and its communication with the frontend. These challenges include handling asynchronous function calls and catching API errors. I also had to relearn how to resolve CORS (Cross-Origin Resource Sharing) errors when fetching data from the backend. These challenges were valuable to my future career as a software developer, as they strengthen my problem-solving skills and are examples of situations that can occur in real scenarios.
