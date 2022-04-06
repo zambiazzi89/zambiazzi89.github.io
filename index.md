@@ -1,3 +1,6 @@
+* TOC
+{:toc}
+
 ## Professional Self-Assessment
 TO-DO
 
