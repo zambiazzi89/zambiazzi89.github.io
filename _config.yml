@@ -1,3 +1,4 @@
 theme: jekyll-theme-tactile
 title: Diego Bez Zambiazzi ePortfolio
 description: Capstone for my Computer Science program at SNHU.
+markdown: kramdown
