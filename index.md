@@ -1,12 +1,12 @@
 ## Table of Contents
-1.  [Professional Self-Assessment](https://github.com/zambiazzi89/zambiazzi89.github.io/blob/main/index.md#professional-self-assessment)
-2.  [Artifact](https://github.com/zambiazzi89/zambiazzi89.github.io/blob/main/index.md#artifact)
-    - [Description](https://github.com/zambiazzi89/zambiazzi89.github.io/blob/main/index.md#description)
-3.  [Code Review](https://github.com/zambiazzi89/zambiazzi89.github.io/blob/main/index.md#code-review)
-4.  [Enhancements](https://github.com/zambiazzi89/zambiazzi89.github.io/blob/main/index.md#enhancements)
-    - [Justification](https://github.com/zambiazzi89/zambiazzi89.github.io/blob/main/index.md#justification)
-    - [Objectives Met](https://github.com/zambiazzi89/zambiazzi89.github.io/blob/main/index.md#objectives-met)
-    - [Reflection](https://github.com/zambiazzi89/zambiazzi89.github.io/blob/main/index.md#reflection)
+1. [Professional Self-Assessment](https://github.com/zambiazzi89/zambiazzi89.github.io/blob/main/index.md#professional-self-assessment)
+2. [Artifact](https://github.com/zambiazzi89/zambiazzi89.github.io/blob/main/index.md#artifact)
+   * [Description](https://github.com/zambiazzi89/zambiazzi89.github.io/blob/main/index.md#description)
+3. [Code Review](https://github.com/zambiazzi89/zambiazzi89.github.io/blob/main/index.md#code-review)
+4. [Enhancements](https://github.com/zambiazzi89/zambiazzi89.github.io/blob/main/index.md#enhancements)
+   * [Justification](https://github.com/zambiazzi89/zambiazzi89.github.io/blob/main/index.md#justification)
+   * [Objectives Met](https://github.com/zambiazzi89/zambiazzi89.github.io/blob/main/index.md#objectives-met)
+   * [Reflection](https://github.com/zambiazzi89/zambiazzi89.github.io/blob/main/index.md#reflection)
 
 
 ## Professional Self-Assessment
